@@ -19,8 +19,8 @@ NoteTaker is a web-based application that allows users to create, update, view, 
 
 ## 📸 Screenshots
 - 🏠 Home Page
-![Home Page](img/HomePage.png)
+![Home Page](src/main/webapp/img/HomePage.png)
 
 - ➕ Add Note Page
-![Add Note](img/AddNotePage.png)
+![Add Note](src/main/webapp/img/AddNotePage.png)
 
